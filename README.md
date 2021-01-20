@@ -12,3 +12,6 @@
   * Add files, commit and push them up to GitHub.
   * Commit frequently as you work.
 * Once finished with the assignment, add a file `Takeaways.md` where you explain what you learned along the way.
+
+### General Grading Rubric:
+![rubric](rubric.png)
