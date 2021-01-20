@@ -40,5 +40,3 @@ public String debug(){
 }
 ```
 * Be sure to include comments throughout your code; NPIR method labels as well as in-line comments where necessary.
-* Grading rubric:
-![rubric](rubric.png)
