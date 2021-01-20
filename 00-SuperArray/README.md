@@ -1,7 +1,7 @@
 # Building a SuperArray Class
 ![](array.png)
 
-### Background
+### Background:
 * In class we have used the built-in [Arrays class](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html) and have worked with data, such as test scores. We have instantiated arrays, assigned values to the array, and traversed the array to sort, search for specific values, or perform calculations.
 * In reflecting on our work, we have come to the conclusion that the Arrays class has some limitations that make our work a bit tougher. <br/>Some limitations include:
   * Its size is determined when the array is instantiated and cannot be changed later on.
@@ -10,7 +10,7 @@
 
 *Our goal is to create our own data structure that will alleviate some of these issues.*
 
-### Requirements
+### Requirements:
 * Create a directory `00-SuperArray` that contains the files `SuperArray.java` and `Driver.java`
 * In the Driver file, make sure you instantiate various SuperArray objects and make sure you show that the following methods work as intended.
 * In `SuperArray.java` have the following:
@@ -25,7 +25,7 @@
   * A remove method, `public void remove(int index)` that removes the value at a specific index of the array and shifts all of the values to fill-in the gap.
   * A to-string method, `public String toString()` that creates a visual output of the contents of the array.
 
-### Other Notes
+### Other Notes:
 * You may want to use a method like the following to help you debug along the way:
 ```
 public String debug(){
